@@ -4,7 +4,7 @@ import ExperienceUnit from '../ExperienceUnit'
 
 import litLogo from '../../assets/images/projects/lit_logo_v2.svg'
 import arukiLogo from '../../assets/images/projects/aruki_sakura.png'
-import walkthroughViewGif from '../../assets/images/projects/wvwalkthroughview-optimize.gif'
+import nowutLogo from '../../assets/images/projects/NOWUT.gif'
 
 class ProjectsSection extends React.Component {
   render () {
@@ -30,15 +30,14 @@ class ProjectsSection extends React.Component {
             subtitle="A social networking platform that helps people navigate
             the social and cultural prospects of a city. Built using Native Android SDK, Firebase, and Google and Facebook SPI"
           />
-          {/* <ExperienceUnit
-            logo={walkthroughViewGif}
+          { <ExperienceUnit
+            logo={nowutLogo}
             colour="#312F31"
-            title="WalkthroughView"
-            link="https://github.com/praagyajoshi/WVWalkthroughView"
-            timeperiod="2016"
-            subtitle="A drop in utility to help onboard a new user/feature.
-              Written in Objective C."
-          /> */}
+            title="NOWUT"
+            link="https://github.com/sayakoftheleaf/nowut"
+            timeperiod="November 2018 - Present"
+            subtitle="A C to Brainfuck cross compiler."
+          />}
         </div>
       </Section>
     )
