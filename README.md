@@ -1,0 +1,2 @@
+# absurdist.life
+Personal Website
