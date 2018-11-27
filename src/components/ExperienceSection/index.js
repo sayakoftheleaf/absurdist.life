@@ -14,12 +14,24 @@ class ExperienceSection extends React.Component {
         <div className="row">
         <ExperienceUnit
             logo={Stores123Logo}
-            colour='#E5473B'
+            colour='#FFFFFF'
             title='123Stores'
             link='https://www.123storesecommerce.com/'
             timeperiod='November 2018 - Present'
-            subtitle='Automated the process of transferring data from supplier catalogs to the desired data format for 123Stores database. Collected and analyzed terabytes of data to infer market trends and competitor strategies and continously delivered micro patches to the price adjustment algorithm to accomodate for newly discovered patterns.'
-          />
+            subtitle="Achieved a 60% increase in efficiency in the internal
+                      data transfer and catalogue professing module by
+                      automating large chunks of the process and deploying a
+                      predictive learning algorithm that tries to predict
+                      data placement based on previously recorded trends.
+
+
+                      Collected and analyzed terabytes of transaction data to
+                      infer market trends and competitor strategies and
+                      continously delivered micropatches to accomodate for
+                      recent analysis in the market price adjustment algorithm.
+        
+        " 
+         />
           <ExperienceUnit
             logo={yogiLogo}
             colour='#E5473B'

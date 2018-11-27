@@ -9,7 +9,7 @@ class Links extends Component {
       <div className="links">
         <ul className="icons-list">
           <li className="icon">
-            <a href="https://www.github.com/sayakoftheleaf" target="_blank">
+            <a href="https://www.github.com/wesrer" target="_blank">
               <i className="fa fa-github"></i>
             </a>
           </li>
@@ -24,12 +24,12 @@ class Links extends Component {
             </a>
           </li>
           <li className="icon">
-            <a href="https://www.absurdist.life/blog" target="_blank">
+            <a href="https://blog.absurdist.life" target="_blank">
               <i className="fa fa-font"></i>
             </a>
           </li>
           <li className="icon">
-            <a href="mailto:" target="_blank">
+            <a href="mailto:" target="sayak.chatterjee@protonmail.com">
               <i className="fa fa-envelope"></i>
             </a>
           </li>
