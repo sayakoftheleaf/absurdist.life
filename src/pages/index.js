@@ -14,7 +14,7 @@ const IndexPage = () => (
         </h5>
 
         <h3 className="bold">
-          Full Stack Developer and Android Engineer. ML and AI enthusiast.
+          Software Engineer and Full Stack Developer. ML enthusiast.
         </h3>
         <ExperienceSection />
         <ProjectsSection />

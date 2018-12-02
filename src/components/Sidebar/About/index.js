@@ -9,7 +9,7 @@ class About extends Component {
         <div className="image">
         </div>
         <div className="bio">
-          Software engineer by Profession and Passion. Wannabe writer. Polyglot. Undergrad at Tufts. Passionate about Cyber Security, Robotics, and Machine Learning. Reads up on Philosophy and Film theory from time to time.
+          Software engineer by Profession and Passion. Undergrad at Tufts. Passionate about Cyber Security, Deep learning and Quantum Computing. Reads up on Philosophy from time to time.
           <div className="emoji">
           👨‍🎓 &nbsp; 🤖 &nbsp; 💻 &nbsp; 🖋️&nbsp; 🏓 &nbsp; 📚 &nbsp;
           </div>
