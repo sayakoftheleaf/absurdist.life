@@ -2,6 +2,7 @@
 
 .experience-unit {
   .image {
+    margin-top: 22px;
     width: 100%;
     height: 130px;
     background-size: contain;
@@ -37,6 +38,7 @@
 
   @include media('>=medium', '<large') {
     padding: 10px;
+    padding-bottom: 15px;
 
     .image {
       height: 110px;
