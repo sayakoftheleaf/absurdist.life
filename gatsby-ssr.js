@@ -1,4 +1,5 @@
-import Helmet from "react-helmet"
+//import Helmet from "react-helmet"
+const Helmet = require("react-helmet").Helmet;
 
 exports.onRenderBody = (
   { setHeadComponents, setHtmlAttributes, setBodyAttributes },
